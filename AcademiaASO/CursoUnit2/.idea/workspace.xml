@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="525707c5-2a8f-4a45-9576-97c605e7007c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/EjemploArreglosCombinados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/EjemploArreglosFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/EjemploException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/Factura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/PrincipalFactura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/src/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/EjemploRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/Interface/CrudRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/Interface/OrdenableRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/Interface/PaginableRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/generics/EjemploGenericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/modelo/ClientePremium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/repositorio/ClienteListRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/repositorio/ClienteListRepositorioOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudRepositorio/src/com/axasmart/poointerfaces/repositorio/Direccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/MySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/Pregunta7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/Speak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/Tell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/Truth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/handy/Greet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/handy/dandy/KeyStroke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Preguntas/src/otroEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo_excepciones/src/org/axasmart/pooexcepciones/ejemplo/EjemploExcepciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arreglos/src/EjemploArreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos/src/EjemploArreglos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GK1Gd7bWClmXa4dsDhY2ljC2Q5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Aso/Academy/AcaemiaASO/JunitControllers"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525707c5-2a8f-4a45-9576-97c605e7007c" name="Changes" comment="" />
+      <created>1666122370044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666122370044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
